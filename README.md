@@ -1,5 +1,5 @@
-# OpengCV monitoring system
-OpengCV monitoring system using USB camera with Flask server for QemuVirt32.
+# OpenCV monitoring system
+OpenCV monitoring system using USB camera with Flask server for QemuVirt32.
 
 ## HOW TO
 **QEMU and Linux are required.**
